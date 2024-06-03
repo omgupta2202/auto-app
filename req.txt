@@ -1,0 +1,4 @@
+requests
+typer
+python-dotenv
+google-generativeai
