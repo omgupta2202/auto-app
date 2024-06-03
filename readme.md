@@ -32,8 +32,8 @@ python main.py
 
 ## Screenshots
 
-![Screenshot 1](screenshots/1.png)
+![Screenshot 1](1.png)
 
-![Screenshot 2](screenshots/2.png)
+![Screenshot 2](2.png)
 
-![Screenshot 2](screenshots/3.png)
+![Screenshot 2](3.png)
